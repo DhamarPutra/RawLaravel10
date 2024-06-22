@@ -31,6 +31,9 @@ Pastikan sistem Anda telah memenuhi persyaratan berikut:
 5. Jalankan Server
     - php artisan serve
 
+### Kalau Tidak Mau Ribet Bisa Langsung Download Zip
+[Disini](https://github.com/DhamarPutra/RawLaravel10/archive/refs/heads/main.zip)
+
 ## Akses Aplikasi
 Setelah menjalankan server, aplikasi akan tersedia di http://localhost:8000 (atau port lain jika sudah diganti).
 
